@@ -25,5 +25,5 @@ pip install requests fake-useragent
 ## Usage
 
 ```bash
-python admin_finder.py
+python adminfinder.py
 ```
