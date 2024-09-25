@@ -1,4 +1,4 @@
-admin/
+admin/a
 administrator/
 admin1/
 admin2/

@@ -1,4 +1,4 @@
-import requests
+import requestsa
 import threading
 from fake_useragent import UserAgent
 
