@@ -28,6 +28,19 @@ pip install requests fake-useragent
 python adminfinder.py
 ```
 
+## Screenshots
+
+Here are some screenshots of the Admin Panel Finder in action:
+
+### Screenshot 1
+![Screenshot 1](screenshots/s1.png)
+
+### Screenshot 2
+![Screenshot 2](screenshots/s2.png)
+
+### Screenshot 3
+![Screenshot 3](screenshots/s3.png)
+
 ## Warning
 
 This script is intended for educational and ethical testing purposes only. The author is not responsible for any misuse or illegal activities that may arise from its use. Ensure you have permission to scan the website, as unauthorized scanning may violate terms of service or local laws.

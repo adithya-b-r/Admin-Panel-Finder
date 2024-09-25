@@ -2,13 +2,13 @@ admin/
 administrator/
 admin1/
 admin2/
+moderator/
 admin3/
 admin4/
 admin5/
 usuarios/
 usuario/
 administrator/
-moderator/
 webadmin/
 adminarea/
 bb-admin/
